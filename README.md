@@ -22,7 +22,7 @@
 
 <a href="https://gusqls3329.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/TISTORY-ff5500?style=for-the-badge&logo=tistory&logoColor=ffffff"/></a>
 
-<a href="https://gusqls3329.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/TISTORY-ff5500?style=for-the-badge&logo=tistory&logoColor=ffffff"/></a>
+<a href="https://gusqls3329.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/notion-ff5500?style=for-the-badge&logo=tistory&logoColor=ffffff"/></a>
 
 </div>
 
