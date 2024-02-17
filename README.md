@@ -21,7 +21,6 @@
 <h1>💭 블로그 💭</h1>
 
 <a href="https://gusqls3329.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/TISTORY-ff5500?style=for-the-badge&logo=tistory&logoColor=ffffff"/></a>
-
 <a href="https://gusqls3329.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=ffffff"/></a>
 
 </div>
