@@ -21,7 +21,7 @@
 <h1>💭 블로그 💭</h1>
 
 <a href="https://gusqls3329.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/TISTORY-ff5500?style=for-the-badge&logo=tistory&logoColor=ffffff"/></a>
-<a href="https://gusqls3329.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=ffffff"/></a>
+<a href="https://www.notion.so/JAVA-3396865b79574d23a24dba709c7246d6/" target="_blank"><img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=ffffff"/></a>
 
 </div>
 
